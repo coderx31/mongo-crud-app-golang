@@ -1,0 +1,13 @@
+{
+    "app": {
+        "name": "book_restapi",
+        "port": ":8000" 
+    },
+    "mongo": {
+        "uri": "mongodb+srv://Coderx:Shenal1999@cluster0.ulpdi.mongodb.net/library?retryWrites=true&w=majority",
+        "username": "Coderx",
+        "password": "Shenal1999",
+        "db_name": "library",
+        "collections": ["books"]
+    }
+}
