@@ -5,8 +5,8 @@
     },
     "mongo": {
         "uri": "mongodb+srv://<username>:<password>@cluster0.ulpdi.mongodb.net/library?retryWrites=true&w=majority",
-        "username": "Coderx",
-        "password": "Shenal1999",
+        "username": "",
+        "password": "",
         "db_name": "library",
         "collections": ["books"]
     }
